@@ -18,8 +18,6 @@
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=PandyaPreet&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandyaPreet&theme=dark&hide_border=true&layout=compact&count_private=true" />
 </div>
 
 
